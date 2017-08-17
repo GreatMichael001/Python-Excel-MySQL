@@ -1,0 +1,2 @@
+# Python-Excel-MySQL
+通过用Python将Excel文件上传MySQL，同时将Excel中特定单元格的内容提取出来插入到MySQL的指定位置
